@@ -2,6 +2,7 @@ body{
     margin: 0;
     background-color:rgb(49, 53, 58);
     min-width: 350px;
+    color: white;
 }
 
 .head{
